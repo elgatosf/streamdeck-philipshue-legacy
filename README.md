@@ -2,16 +2,17 @@
 # Philips Hue Plugin for Elgato Stream Deck 
 # UPDATE INFORMATION
 
-We are soon switching to an all-new Philips Hue Plugin
+## There's a new version of the Philips Hue plugin available on the [Elgato Marketplace](https://marketplace.elgato.com/product/philips-hue-27f49792-2de3-455f-8892-fd382716f548).
 
-You are welcome to check out our upcoming release of a new Philipe Hue plugin (which is still under heavy development).
-You can find the new plugin here [New version 2.0](https://github.com/elgatosf/streamdeck-philipshue/discussions/61).
+You'll find that version [here](https://marketplace.elgato.com/product/philips-hue-27f49792-2de3-455f-8892-fd382716f548)
 
-It should work with all recent Philips Hue Bridges (sold like 6-7 years ago).
+New discussions/support will move to [Discord](https://discord.gg/elgato)
 
-**If you have the original plugin installed, please, first install the update to the old plugin** [Philips-Hue original plugin 1.6.8](https://github.com/user-attachments/files/15746596/com.elgato.philips-hue.streamDeckPlugin.zip), otherwise your sidebar gets mixed up...
+The new version of the plugin should work with all recent Philips Hue Bridges (sold like 6-7 years ago).
 
-You can install both versions (old and new) in parallel without problems.
+**If you have the original plugin installed, please, first install the update to the old plugin** [Philips-Hue original plugin 1.6.8](https://github.com/user-attachments/files/15746596/com.elgato.philips-hue.streamDeckPlugin.zip), or remove it - otherwise your sidebar gets mixed up...
+
+You can install both versions (old and new) in parallel without problems, but it has no benefits. The new version is far more capable than the legacy version.
 
 <img width="952" alt="CleanShot_2024-06-08_08 35 59" src="https://github.com/elgatosf/streamdeck-philipshue/assets/80752/621322d9-5e19-42fb-aec4-7fce9a11aac6">
 
